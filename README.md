@@ -32,7 +32,7 @@ Developed the screen for adding tasks and associated functionality.
 Implemented the logic for displaying and editing existing tasks.
 Collaborated with database team to ensure proper storage and retrieval of task data.
 
-5. Designed the database schema to store user information and tasks.
+5. 10947903(mariepearl): Designed the database schema to store user information and tasks.
 Implemented database connectivity using appropriate APIs and libraries.
 Worked with the task management team to ensure proper data synchronization.
 
@@ -46,7 +46,7 @@ Developed the logout screen and associated logic.
 Implemented session management to ensure proper user logout.
 Collaborated with the authentication team to handle logout requests.
 
-8. 10969676: Responsible for testing and ensuring the quality of the app.
+8. 10969676(bekor-chris): Responsible for testing and ensuring the quality of the app.
 Conducted unit testing to identify and fix any bugs or issues.
 Performed integration testing to ensure seamless functionality across different screens.
 Collaborated with other team members to address any reported issues and improve app performance.
