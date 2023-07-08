@@ -11,7 +11,7 @@ This application is called EpicMinder, which serves as a goal tracker app that a
 2. Clone the app using the `git clone` command and the URL "https://github.com/dcit202Andriod/Group38-DCIT-202-epicMinder-app.git".
 3. Open the folder in Android Studio and run all the activities to launch the app. Please note that the time required for this step may vary depending on your computer's speed.
 
-## memebers contribution
+## members contribution
 Group leader: Responsible for overall project management and coordination.
 Organized team meetings and facilitated communication among team members.
 Ensured project milestones and deadlines were met.
