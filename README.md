@@ -5,7 +5,7 @@ This application is called EpicMinder, which serves as a goal tracker app that a
 - New users are required to sign up, while existing users can sign in to access their task page.
 - Users Can login using their google email account and it will be authenticated through firebase with their e-mails.
 - After successful login, The name and image of the user (on the Email) will be taken by firebase and displays it on the main page.
-- 
+- On the main page, Users Can add a task on the add-task screen
 - On the task page, users can add, remove, and schedule activities. They will receive reminders through alarms when the tasks are due.
 3. Users can also utilize the calendar page to view all scheduled and upcoming events.
 
