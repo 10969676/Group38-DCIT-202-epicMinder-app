@@ -17,7 +17,7 @@ Organized team meetings and facilitated communication among team members.
 Ensured project milestones and deadlines were met.
 Assisted in resolving any conflicts or issues within the team.
 
-10953537(njoyalex): Responsible for designing the user interface and user experience of the app.
+10953537(njoya-alex): Responsible for designing the user interface and user experience of the app.
 Created wireframes and mockups for the four screens of the app.
 Designed the layout, color scheme, and typography to enhance user experience.
 Collaborated with developers to ensure design implementation.
