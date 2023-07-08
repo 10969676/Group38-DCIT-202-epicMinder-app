@@ -17,12 +17,13 @@ import android.widget.Toast;
 import com.example.my_app.model.TaskModel;
 import com.google.android.gms.tasks.OnFailureListener;
 import com.google.android.gms.tasks.OnSuccessListener;
+import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.firestore.DocumentReference;
 import com.google.firebase.firestore.FirebaseFirestore;
 
 import org.checkerframework.checker.nullness.qual.NonNull;
 
-public class AddTaskActivity extends AppCompatActivity {
+public class   AddTaskActivity extends AppCompatActivity {
     EditText etTaskInput;
     Button saveBtn;
     FirebaseFirestore db;
@@ -45,7 +46,7 @@ public class AddTaskActivity extends AppCompatActivity {
                 if(taskName!=null){
 //                    Toast.makeText(AddTaskActivity.this, taskName, Toast.LENGTH_SHORT).show();
                     String taskId;
-                    TaskModel TaskModel = new TaskModel(  "" ,taskName,  "PENDING"  );
+                    TaskModel TaskModel = new TaskModel(  "" ,taskName,  "PENDING", FirebaseAuth.getInstance().getUid()  );
                     db.collection("tasks").add(TaskModel).addOnSuccessListener(new OnSuccessListener<DocumentReference>() {
                                 @Override
                                 public void onSuccess(DocumentReference documentReference) {

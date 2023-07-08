@@ -58,10 +58,11 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="EpicMinder"
+                    android:text="User Name"
                     android:textColor="@color/black"
                     android:textStyle="bold"
                     android:textSize="30dp"
+                    android:id="@+id/userNameTv"
                     />
             </LinearLayout>
 
@@ -72,10 +73,13 @@
                 android:layout_weight="2"
                 android:gravity="right"
                 >
-                <ImageView
+                <de.hdodenhof.circleimageview.CircleImageView
                     android:layout_width="55dp"
                     android:layout_height="55dp"
-                    android:src="@drawable/avater1"/>
+                    android:src="@drawable/avater1"
+                    android:id="@+id/userProfileIv"
+                    />
+
             </LinearLayout>
         </LinearLayout>
         <SearchView
