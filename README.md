@@ -1,17 +1,17 @@
   # Group38-DCIT-202-EpicMinder-app
 This application is called EpicMinder, which serves as a goal tracker app that assists individuals in managing their day and improving productivity.
 
-## How to use the App:
+## How to use the EpicMinder App:
 1. New users are required to sign up, while existing users can sign in to access their task page.
 2. On the task page, users can add, remove, and schedule activities. They will receive reminders through alarms when the tasks are due.
 3. Users can also utilize the calendar page to view all scheduled and upcoming events.
 
-## How to Run the App:
+## How to Run the EpicMinder App:
 1. Create a folder and open it using your terminal or GitBash.
 2. Clone the app using the `git clone` command and the URL "https://github.com/dcit202Andriod/Group38-DCIT-202-epicMinder-app.git".
 3. Open the folder in Android Studio and run all the activities to launch the app. Please note that the time required for this step may vary depending on your computer's speed.
 
-## Members contribution
+## Members contribution:
 1. Group leader 10953758 (francismaxug): Responsible for overall project management and coordination.
 Organized team meetings and facilitated communication among team members.
 Ensured project milestones and deadlines were met.
@@ -63,7 +63,7 @@ Ensured compliance with app store guidelines and requirements
 
 
 
-# Here is the figma Design 
+# Here is the figma Design:
 ![CalenderPage](https://github.com/dcit202Andriod/Group38-DCIT-202-epicMinder-app/assets/102633994/103eafb4-66e8-437d-931c-b9df72302317)
 ![HomePage](https://github.com/dcit202Andriod/Group38-DCIT-202-epicMinder-app/assets/102633994/28130822-de82-4262-816a-de800cad63d2)
 ![Login](https://github.com/dcit202Andriod/Group38-DCIT-202-epicMinder-app/assets/102633994/c739390c-fb8b-409e-9db3-5497967354a2)
