@@ -58,9 +58,9 @@ public class HomeActivity extends AppCompatActivity {
 
         Picasso.get().load(FirebaseAuth.getInstance().getCurrentUser().getPhotoUrl()).into(userImageIv);
 //        userNameTv.setText(FirebaseAuth.getInstance().getCurrentUser().getDisplayName());
-        FirebaseUser currentUser = FirebaseAuth.getInstance().getCurrentUser();
-        if (currentUser != null && currentUser.getDisplayName() != null) {
-            String displayName = currentUser.getDisplayName();
+        FirebaseUser currentUserUser = FirebaseAuth.getInstance().getCurrentUser();
+        if (currentUserUser != null && currentUserUser.getDisplayName() != null) {
+            String displayName = currentUserUser.getDisplayName();
             userNameTv.setText(displayName);
         }
         String taskId;
