@@ -61,3 +61,12 @@ Ensured that the README file and any other necessary documentation were up to da
 Prepared the necessary assets and metadata for the app listing.
 Managed the release process, including versioning and signing the APK.
 Ensured compliance with app store guidelines and requirements
+
+
+
+# Here is the figma Design 
+![CalenderPage](https://github.com/dcit202Andriod/Group38-DCIT-202-epicMinder-app/assets/102633994/103eafb4-66e8-437d-931c-b9df72302317)
+
+
+
+
